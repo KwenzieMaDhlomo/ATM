@@ -1,2 +1,3 @@
 # ATM
 A simple ATM that allows a user to check their balance, deposit, withdraw and transfer funds.
+A simple ATM using Java, with advanced security features. Users must enter their correct user ID and PIN to access the system, and incorrect credentials will result in authentication failure. This helps to keep the system secure and prevents unauthorized access. In order to access the ATM interface, users must enter their correct user ID and PIN. This ensures that only authorized users can access the system and helps to keep the system secure. If the user's ID or PIN is incorrect, the authentication will fail and the user will not be able to proceed.
